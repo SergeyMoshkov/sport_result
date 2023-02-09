@@ -1,2 +1,5 @@
 .idea/
 .exe
+/sport_result/settings.py
+/blog/__pycache__/
+/sport_result/__pycache__/
